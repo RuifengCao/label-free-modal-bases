@@ -1,0 +1,98 @@
+{
+ "Largest frequency error, mapped reduced basis, sources on the evaluation mesh": [
+  0.0006749910037407991,
+  0.0007512793399673257,
+  0.0010612866282468936
+ ],
+ "Largest frequency error, mapped reduced basis, sources at h_max 0.2": [
+  0.0006749910037407991,
+  0.001988216091929007,
+  0.0030004348641793355
+ ],
+ "Largest frequency error, shared O4 (geometries and seeds)": [
+  0.0025442642879174304,
+  0.0025758891826288544,
+  0.002613072945224615
+ ],
+ "E2, mapped reduced basis, sources on the evaluation mesh": [
+  0.03839858662473328,
+  0.04011929093848697,
+  0.04687397624875502
+ ],
+ "E2, mapped reduced basis, sources at h_max 0.2": [
+  0.03839858662473328,
+  0.0644118985945393,
+  0.07937382281427366
+ ],
+ "E2, shared O4 (geometries and seeds)": [
+  0.061888738588223885,
+  0.06288167917634829,
+  0.0635439328082417
+ ],
+ "E1, mapped reduced basis, sources on the evaluation mesh": [
+  0.004411300049515792,
+  0.004941013943448299,
+  0.0066276398068970295
+ ],
+ "E1, mapped reduced basis, sources at h_max 0.2": [
+  0.004411300049515792,
+  0.012626733500228113,
+  0.019294304244289826
+ ],
+ "E1, shared O4 (geometries and seeds)": [
+  0.011510923796230352,
+  0.011861282037798357,
+  0.012087479510252595
+ ],
+ "Geometries (of 16) where the largest frequency error of the basis with sources on the evaluation mesh is below O4 (seed median)": [
+  14.0,
+  14.0,
+  14.0
+ ],
+ "Geometries (of 16) where the largest frequency error of the basis with sources at h_max 0.2 is below O4 (seed median)": [
+  14.0,
+  10.0,
+  8.0
+ ],
+ "Geometries (of 16) where the E2 of the basis with sources on the evaluation mesh is below O4 (seed median)": [
+  14.0,
+  13.0,
+  12.0
+ ],
+ "Geometries (of 16) where the E2 of the basis with sources at h_max 0.2 is below O4 (seed median)": [
+  14.0,
+  9.0,
+  5.0
+ ],
+ "Largest frequency error, sources on the evaluation mesh, relative to h_max 0.2: median": [
+  1.0313917140087587,
+  1.3799496579432113
+ ],
+ "same: smallest": [
+  1.4195103779456044,
+  1.6222755404311857
+ ],
+ "same: largest": [
+  9.725435449269634,
+  24.911070632436974
+ ],
+ "Largest frequency error, sources at h_max 0.2 over sources on the evaluation mesh: median": [
+  2.4002219846701838,
+  2.659370324889324
+ ],
+ "4.0451_0.1017 (outside the hull), largest frequency error, sources on the evaluation mesh": [
+  0.008473610842564705,
+  0.014136095961809092,
+  0.016722087642627725
+ ],
+ "4.0451_0.1017, shared O4 (seed median)": [
+  0.0021561048426135265,
+  0.0021906791824777283,
+  0.0022088748209865283
+ ],
+ "Median degrees of freedom of the 16 held-out geometries": [
+  7366.0,
+  23352.0,
+  76893.0
+ ]
+}

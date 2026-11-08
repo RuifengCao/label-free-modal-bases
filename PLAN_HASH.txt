@@ -1,0 +1,148 @@
+be5cf32d53daf8093eb558650543f6c4149d529656bf7cbeca262968c1b33731  PLAN.md
+hashed at 2026-11-05 20:27:13 UTC
+9b12ef08f9f44f53f0dcefb37a9df1fc2b12787a1537d47cb5a138c8a32bf9d7  DEVIATIONS.md
+deviations hashed at 2026-11-05 20:32:00 UTC
+a6a6ac5982b0e141096d93d454d3956f5d89d360283e36c6bdbb0f80678d4eaf  POSTHOC.md
+post hoc plan hashed at 2026-11-05 20:44:27 UTC
+41d4c77aac0242f8fb88661fc0c32a34197920ea7dd7db6cf066cf907211d174  POSTHOC2.md
+post hoc plan 2 hashed at 2026-11-05 20:53:25 UTC
+fc5c80ff724c62c3fcadef43a5e84a23548d5a86aeee3663e04ebe67450bf42d  POSTHOC3.md
+post hoc plan 3 hashed at 2026-11-05 20:59:01 UTC
+a82124fa78eb23c266ee5f11a852dc273d9164bc8858891e81e7ad5565c1bf13  POSTHOC3.md
+post hoc plan 3 with addendum hashed at 2026-11-05 20:59:56 UTC
+6c41c5c741867591b75de2b60c61c5387a9deab5ce0c4960f68271210431566f  POSTHOC4.md
+post hoc plan 4 hashed at 2026-11-05 21:02:16 UTC
+416041336debfc5e1147b7217702898eea8e43e504c58e9a5d70e7f4b1f03d0d  POSTHOC5.md
+post hoc plan 5 hashed at 2026-11-05 21:06:05 UTC
+193c467a0d40032cfc5ad7acad3d4fb8fbc5e11ff491fc50f8f9a87556c68c75  POSTHOC6.md
+post hoc plan 6 (re-examination) hashed at 2026-11-05 21:52:09 UTC
+336b8238ee1ef7955ecdb290b93fbc86c1a648921e186837c6f587bc676b22ed  POSTHOC6.md
+post hoc plan 6 with addendum (E4) hashed at 2026-11-05 21:59:02 UTC
+633a985558256ba138a424e45bc62ad5126b805c7280d86716e52d731fc9365a  POSTHOC6.md
+post hoc plan 6 with second addendum (F) hashed at 2026-11-05 22:17:32 UTC
+POSTHOC7.md 69ca8eb14b3fec23067d1efcad860f2f81ecb0095d572b64995e1073b36af230 2026-11-06 00:35:42 UTC
+phase0/PHASE0_PLAN.md 2b31b4f506f11fb546ea3ed82472dd038a71999aea3cc1672dcb7280a977f186 2026-11-06 02:58:50 UTC
+phase0/DEVIATIONS_PHASE0.md d5e294d7f25f2286356ce13c56adf231e4b8cea8c397c247edd7bb7198439f93 2026-11-06 03:03:14 UTC (entry 1, A4 tolerance)
+phase0/DEVIATIONS_PHASE0.md 056a1075011df1aa1a53aec86b2d190f989a97ad4aa6d557161c930541303486 2026-11-06 03:03:54 UTC (entry 2, smoke test scope)
+phase0/DEVIATIONS_PHASE0.md 33d0b9333f194c32f27835e78ff2de1d7ddf2810c268fc45e9ef60bb8a69b0b4 2026-11-06 04:32:26 UTC (entry 3, post hoc K-angle)
+phase0/PHASE0B_PLAN.md e2bee06c216b2c5f2d264db8128123df6a14aa95ea1ac080b8de7d9623c4f9e1 2026-11-06 16:55:09 UTC
+phase0/DEVIATIONS_PHASE0.md 6294c8cf7367b0b0fbb9c6f5a6b7831ba435aaa1cdb0cb4e6bd422bcc635ff39 2026-11-06 16:57:17 UTC (note on Phase 0b A5)
+phase0/PHASE0C_PLAN.md cff672d36b8fec4974c40c386dc01d179f21fa41bdc8b0bd6328e94adc227cfb 2026-11-06 17:28:24 UTC
+phase0/PHASE0D_PLAN.md cdaa7ad5c77c4e46ae32e08a8bd74fa5b7cde68cead7752edff4cee96843440f 2026-11-06 18:30:02 UTC
+phase0/PHASE0D_PLAN.md 526fe696136fe31c85e7ad90e162e633b689b2b2e61b2e452a5bfb5e957b0ecd 2026-11-06 18:30:08 UTC (replaces the 18:30:02 line: time in the header corrected from 18:35 to 18:30, no other change, nothing run in between)
+phase0/DEVIATIONS_PHASE0.md 7f1df6cc4eb91f740961e7d8ad0a20b3ba77cc27acf307f93f8ee27d3fb41505 2026-11-06 18:32:31 UTC (entry 4, Phase 0d B4)
+phase0/DEVIATIONS_PHASE0.md 5ca6fa38ea921733cf4cf8f709ea14789ca310015bcea12a4992fef382402a60 2026-11-06 18:32:36 UTC (replaces the 18:32:31 line: time in entry 4 corrected from 18:42 to 18:32, no other change)
+phase0/PHASE0E_PLAN.md 038512bb3170afe843b9d61b53c6aa485d0592404da764b34fe3616e7bb13247 2026-11-06 18:35:58 UTC
+phase0/PHASE0E_PLAN.md 7ce025e9255cfd53da9d11d436553331d99e26a4c011720aeae967c1663b39e0 2026-11-06 18:36:03 UTC (replaces the 18:35:58 line: time in the header corrected from 18:40 to 18:35, no other change)
+phase0/DEVIATIONS_PHASE0.md f1d38968e8958768bde8753c2efb246af881de3f65224f5318abdd5630922868 2026-11-06 18:55:00 UTC (entry 5, Phase 0e implementation)
+phase0/DEVIATIONS_PHASE0.md 45e1db76b0f1f9916e5887ef74cb036a4df96df223e6c3fa15bd2a9120c7310b 2026-11-06 18:55:05 UTC (replaces the 18:55:00 line: entry 5 times corrected to 18:55 and 8 minutes, no other change)
+phase0/DEVIATIONS_PHASE0.md 40eff64c2d05a8dfba2b38efd82ec2dd825ad7c21efe34c4089401aadb5ee357 2026-11-06 18:56:16 UTC (entry 6, Phase 0e iterations)
+phase0/DEVIATIONS_PHASE0.md 526892e8caf4ccde306607c1155e1d148a433b04450bfbd6423cc144384a0747 2026-11-06 18:56:41 UTC (replaces the 18:56:16 line: entry 6 time corrected from 18:57 to 18:56, no other change)
+phase0/DEVIATIONS_PHASE0.md 88a061e58c9da889bfcde3a1d6da47e9a84b9efc3bc4ad7023e383863a1fbeb0 2026-11-06 18:59:27 UTC (entry 7, run order)
+phase0/DEVIATIONS_PHASE0.md fc8c90d196f421f03f74d2af793a3e7f15e8055ae6b723f450ec692159a29713 2026-11-06 19:16:19 UTC (entry 4: correction note on the B2 values appended)
+phase0/DEVIATIONS_PHASE0.md ff28c54f7aa3839a2d9878cb2df6a99655f4d2799142ea440c07da63297923d2 2026-11-06 19:16:25 UTC (replaces the 19:16:19 line: time of the correction note corrected from 19:20 to 19:16, no other change)
+phase0/DEVIATIONS_PHASE0.md 57876288808d55a25ef30e7f40f03b1e91b9e90bcd19e1486bc0f6b16a67b7db 2026-11-06 21:56:21 UTC (note on entry 7, actual run order)
+formal/PREREG.md 57637bd6fe7df24ca9b5a4f097a94d029b8cbb592916903b714dabeb27f99947 2026-11-06 23:04:17 UTC (Version 1 draft, approved by the author at 23:02 UTC on 6 November 2026; decisions (i) to (iv) of the Chinese evaluation note of 6 November 2026 all accepted)
+formal/PREREG.md ddf7c8148905e99f544478e94082ec92ac72e51bed3950186fe7a9947213fa78 2026-11-06 23:04:17 UTC (the same file with only its first sentence changed to record the approval; this is the version to be stamped with the code once the laptop smoke test is on record)
+formal/PREREG.md ddf7c8148905e99f544478e94082ec92ac72e51bed3950186fe7a9947213fa78 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/phase1.py 26e5226c2adc680ec9c6dde5978bfbe5757d13388f6f52191759ed8c60c3b532 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/phase0.py 7e40974fdb55a22e7b61e2ce8e0cb5cf72d1979ce388a6f542050ba3f142fdaa 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/phase0b.py 4deb2800b65ede317357ec7c2b652c75d2c11a9c35afc18a44c0e3608ed7d4a6 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/phase0c.py 82752aa0acb5cf98527904acad236383518a79e512168c56f72d5bd250b2b499 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/phase0d.py ee991783ff29d05d429c3e688a00c6ca69a1f483f4840b2eb1cd0e3e9e19ea81 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/phase0e.py c3e4383cd47950453bcd5dee3b0f7d3d5a9a479a6c7d536d288da0d53a19232e 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/geometries.json 21f351a334db8a847ced0dfc90c3454de54079718f4a44f0fcfbed7fc20ac08c 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/run_formal.py d4d946716af4e3c55d789c45326681308f01560ac6f637487167af5e0e2a59fe 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+fem_cantilever.py 310f42ebe4bceff6bcaca10cea709c3b0f8b5691e84684b1d66f13d53ec16ec4 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+lb_model.py fe0a3aabefd2145c72b0e50683261df2adfdedacf1adc6f12905312c10711820 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+run_check.py c34096fc2bee404cf7123d1d6858a269c1a8b3354be7908b63bc1fae42267c7a 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+posthoc.py 714baf275120f296c81e28ce24edba279b9d9fb50807dbf7e3a9fe83f6c85eaa 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+posthoc2.py 2320e6ed9f31f13d7077dcfe0f5dc11f390880f6ef995436df35fd5eaf464f35 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+posthoc3.py b2a73f7fd39cf13a5390bcf114640daad46d331688f8bbede3dde1aab5f4807e 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+posthoc4.py 3dfe18d1960998dd1ffc274cb95718c2d332c4c7b0162bf97ae2012bb1806b2a 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+posthoc6.py 109654208238f3dd65b721adee7e62062e0f13e9bf5409f95836a11683223aeb 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+posthoc7.py 7688346076a3830c53dd8005297766fbf99d1315ed4169c72fe0c64331a01169 2026-11-07 01:14:54 UTC (stamped: pre-registration Version 1)
+formal/STAMP.txt 120ae745b2a71c0447d8eba6fd21ce535f4bd83c0abcb03b11d34f3378def752 2026-11-07 01:14:54 UTC (the stamp itself, placed in the laptop's formal folder and checked there with run_formal.check_stamp: all 18 files match)
+formal/results/SHA256SUMS_formal_results.txt 800bfd8d08fed632f77a5385af445c1f777d58bfe32649111cac24bf60999357 2026-11-07 10:29:29 UTC (sha256 of all 172 output files of the formal run, computed on the laptop at 10:2x UTC; every output file's modification time is at or before 09:11:23 UTC, the end of the run)
+formal/results/SHA256SUMS_formal_results.txt 800bfd8d08fed632f77a5385af445c1f777d58bfe32649111cac24bf60999357 2026-11-07 10:29:45 UTC (replaces the 10:29:29 line: the list was written on the laptop at 10:23:35 UTC, its file time, instead of the vague 10:2x; no other change)
+explore/EXPLORE_PLAN.md 8e829ba31c87bdda5d08e1407daff7907610f30f8804d3f760e1ad3507912ca6 2026-11-07 17:42:57 UTC (exploratory plan X1 to X3, before any run)
+explore/DEVIATIONS_EXPLORE.md 05bc50ef0eb0be2661b6a666dcd791759f1cde7c917bbb5eaa9a94439ed9e937 2026-11-07 18:08:52 UTC (exploratory code and its deviation record, after the sandbox smoke test and before the laptop runs)
+explore/explore.py 372becc51ffb4935d15f80376a97a72d8bf234d710abeaa18bf6ea21aca447f9 2026-11-07 18:08:52 UTC (exploratory code and its deviation record, after the sandbox smoke test and before the laptop runs)
+explore/run_explore.py acc9fa0d701cfff769f2688adef8e2c6c0db1116f87ab41724a78407fc2d145a 2026-11-07 18:08:52 UTC (exploratory code and its deviation record, after the sandbox smoke test and before the laptop runs)
+explore/run_explore.bat cd00189ced92c33656afbf01089437dfd05e05b95d902d7300c13a38412aa3db 2026-11-07 18:08:52 UTC (exploratory code and its deviation record, after the sandbox smoke test and before the laptop runs)
+explore/run_explore_smoke.bat 92a439f5df1635d265c464d06afc2a0c14427d43b81000c8f0e42d575e044b66 2026-11-07 18:08:52 UTC (exploratory code and its deviation record, after the sandbox smoke test and before the laptop runs)
+explore/sbx_tests/test_launcher.py 9d9602bb0f0a18414b13726113e9d46a003d7e7bc6c0ad9cdee2324bbea7bb31 2026-11-07 18:08:52 UTC (exploratory code and its deviation record, after the sandbox smoke test and before the laptop runs)
+explore/DEVIATIONS_EXPLORE.md 176560d729a8133cce79702e75f463be0f7f25ec9958b1cddf5b9ce190f554dc 2026-11-07 18:10:34 UTC (item 10 added, X3 additions, before any X3 computation; replaces the 18:08:52 line for this file, items 1 to 9 unchanged)
+explore/DEVIATIONS_EXPLORE.md f71b1a9ce3dcf814643e5e32acd9089814647cd113a881873d4c839e0610ed0e 2026-11-07 18:12:51 UTC (item 11 added after the first X3 computation, prompted by its check; items 1 to 10 unchanged)
+explore/DEVIATIONS_EXPLORE.md 477ca572bda7a705d40e519f5a4475594717ed6c77846246a42fba215de143f8 2026-11-07 18:12:58 UTC (replaces the 18:12:51 line: the heading of item 11 said 18:14 UTC, written before checking the clock; the time was 18:12 UTC; no other change)
+explore/DEVIATIONS_EXPLORE.md 7875797ef2a00f4001cf81d2d4b034560822616aac8f16ed1ef2124043fc92dd 2026-11-07 18:23:27 UTC (item 12 added after figure 5, prompted by it; items 1 to 11 unchanged)
+explore/DEVIATIONS_EXPLORE.md 9941fc55fd2c149cb7839a5cab0f1c945cfc56b8b6cb8c770aae46db9be2ec75 2026-11-07 18:23:37 UTC (replaces the 18:23:27 line: two counts in item 12 were wrong, 23 and 17, now 25 and all 28, checked against the output; no other change)
+explore/DEVIATIONS_EXPLORE.md 39768046fc9821f03451935aff154ba1959701666c822f2700d8223e53477832 2026-11-07 18:30:19 UTC (item 13 added after figure 4, before computing it; items 1 to 12 unchanged)
+explore/DEVIATIONS_EXPLORE.md aa9b14c0f4c3981dbe1b6b05dcd2aab177087c575cc151cfc6db1db7e81a975a 2026-11-07 18:30:26 UTC (replaces the 18:30:19 line: the heading of item 13 said 18:31 UTC, written before checking the clock; the time was 18:30 UTC; no other change)
+explore/DEVIATIONS_EXPLORE.md 5b8f64e700bc24d5087db995c14648faf5745adbbfd5484c3960cc8319195a4b 2026-11-07 18:31:22 UTC (item 14 added after item 13 was computed, before computing it; items 1 to 13 unchanged)
+explore/x3_analysis.py 778487c3d90f39d2700bf2b2d5384118fe1fa0dc099b2998ed2486fbb3592f2d 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3_figures.py 9b5f7fc2c86a4abc7eff82ecf75387be325ac6ae00851233bd574033fb21b426 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/x3_shape.json cb014c74203af650dbbe24149238f658e4127c1387c799e2355e49ea76f5a1d6 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/x3_fig3.json 51476074f12848b4eb726fce1650ad9a66ffc240578ea0e9d78ce59cf559fe9f 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/x3_fig4.npz 30bbdc6024a3b6d7c4ca3c4f0a75b28b6f399850e2f3bb2157e6cc638b84530d 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/x3_notch.json 10237c198a8d0937d4a07c10dbd35a6d16cf2efc64fd6d61aa1276c0b0e7729a 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/figs/figure_data.json b68decbb948fca96667f3fb7554fb0e0cac2917e25593e48143a7bf11244dc62 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/figs/fig1_partI_learning_curves.pdf 3876308cdfb5db4d146d6d15060b72dc7f985225b4915059bd472e19098b6eb3 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/figs/fig2_partII_heldout_frequency_errors.pdf 01be27a5661158a6414e2bc2ea83ce5953fe84a9084eaa436d583f6ef65f00ff 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/figs/fig3_tip_displacement_history.pdf 8e0de8ff83f435c88e02e5fba5a651f6127bb7c6ffbc0581fecf97df856acba3 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/figs/fig4_G1_modes.pdf dbf8a94aaf5aed1847236e20445821c84afcc2c31d49c5248d394f3d46186fcc 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/x3/figs/fig5_shape_errors_and_E2.pdf 7646c1d30827d9e467c435860b5ae0bdb5d98ef53e75e155a3194df14f0d0ab2 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/RESULTS_EXPLORE.md 91ba6755750364f192d8213a1eba2f0104c14fe7a194f61234838d4444c36751 2026-11-07 18:33:11 UTC (X3 done in the sandbox: scripts, outputs, figures and the results text so far)
+explore/DEVIATIONS_EXPLORE.md f04b36e46c6d25f43fb6f301d6de70dc6e38a7a662ca018f2cc498e264bcd7e3 2026-11-07 18:34:23 UTC (item 15 added: figure additions recorded after they were made; items 1 to 14 unchanged)
+explore/RESULTS_EXPLORE.md 4a48430e824d8ccb5f1bc3cd12448c553f59854009e656b087f267d356ac58a4 2026-11-07 18:34:38 UTC (replaces the 18:33:11 line for this file: the status line now cites items 1 to 15; no other change)
+explore/results/SHA256SUMS_explore_results.txt e1e6f23d733fdfcc46ca25a75caa38e8fcb5c4d230093923ce2983c883bdb3b8 2026-11-07 23:50:44 UTC (checksum list of the exploratory outputs, written on the laptop after the run ended at 22:33:23 UTC; all 57 entries verified on the staged copies)
+explore/DEVIATIONS_EXPLORE.md 68671fe365b4dea868e12c2b2bd15d88b72a76dd4cf7c410632d96bc9d6d1bfd 2026-11-07 23:53:49 UTC (item 16 added before the X1 and X2 figures; items 1 to 15 unchanged)
+explore/DEVIATIONS_EXPLORE.md 7b4ba4014b2376fe71327fbb8cf9ae3766d51f57824a0b8bb71b8be0f8e2fea7 2026-11-07 23:55:44 UTC (item 17 added before redrawing figures 1 to 5; items 1 to 16 unchanged)
+explore/RESULTS_EXPLORE.md b4cf4e54a24133ffbf5d745551cf56442af635955dd51373748458d90fd668ea 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/TABLES_EXPLORE.md 45cc5c637249be8523724355aba0f8f9f61a4209cb3ade5127fa4e7386007d66 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/x12_report.py cb84acf287cb95f1ecf6e135afe3c63d8ba781162625e37b9e12dc4f4cc3d29e 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/x3_figures.py 5c027f08703d20d4975709ce140d698b8aa340cf75d3a9bb9ea6f24ab9aa2016 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/check_h02/repeat_sources.py 743759659ab2e6d06afb85740551f8d59b9bbc95899a6f206eb6301f04d47abc 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/check_h02/repeat_sources.json 7308e995ecf2e6dcc5df33edfb0d474b2402c136eb973cd756700193d71e1cae 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/code_explore.md 9410716b4abb5a6d3ccb863354a0b3171de8a319b6f367dfee81967f3e10a843 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/fig1_partI_learning_curves.pdf 8d6c664eda9c0fc36183b1358c19d0710ca64311e2d2a1ffeed528b2956bfc41 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/fig2_partII_heldout_frequency_errors.pdf ef78ac2792aaf1108c155d101e525d073ec341a6853782743e12afaf9c0940c9 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/fig3_tip_displacement_history.pdf 71d3a7ddd10cee62a5bd4e06b0a7e75b67fcacec8d6bed3aa257607bb42322ea 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/fig4_G1_modes.pdf ca1dd23c43636c08c6d761d62843031680b4433645de466bc70910c76c6e4b37 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/fig5_shape_errors_and_E2.pdf 6349850d22b1cf810e3c89e09e41c8a1eb9fdaaaeb4d5a4c68398bf20c862d58 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/fig6_online_cost.pdf 215d2e4ec138d6a65595d56ff42a0855e1e31c908110f58897753aa7c67cb952 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/fig7_accuracy_mesh_refinement.pdf 48bf9f54b5e90e3c3dfd165ab345f8dc89c982a4e8eac2814d7f9e1976494a10 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/fig8_longer_training_O2_O3.pdf 9c8663d54280821fe310a6a9fa464c6a454bc8503c37729afd593195aa220139 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/figure_data.json b68decbb948fca96667f3fb7554fb0e0cac2917e25593e48143a7bf11244dc62 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/figs/figure_data_x12.json 18a4aa31448efbfb0be4c1a2c5b246a2191e81f01e4c2e6275b897de880199b9 2026-11-08 00:02:21 UTC (X1 and X2 results, explanation check at h_max 0.2, figures 1 to 8 with the colours of item 17)
+explore/DEVIATIONS_EXPLORE.md 069cb4e7656ade53f7b663d8d0835b341c2502ee3a77e655a6ad137bb976c707 2026-11-08 00:09:07 UTC (item 18 added: control with fine-mesh sources for the mapped reduced basis, approved at 00:08 UTC, before any computation; items 1 to 17 unchanged)
+explore/DEVIATIONS_EXPLORE.md ab803ece782d002069c9d86a9096d5ed3ca4047178c272085e508e37ca48260d 2026-11-08 00:18:49 UTC (item 19 added after the first attempt of item 18 failed, before the second; items 1 to 18 unchanged)
+explore/DEVIATIONS_EXPLORE.md 1abdd46980353a353a24f6b61d5c0d46d866716ac93828046cba59b9f5c69f4c 2026-11-08 00:19:02 UTC (replaces the 00:18:49 line: item 19 said both processes stopped; all four runs, two parts at each of h_max 0.1 and 0.05, stopped at their first geometry; no other change)
+explore/rbfine.py 461a2ef8b9bce84d2828a9e877adc63c0c9056ecd7a052d87fd279c04e18ac83 2026-11-08 00:20:07 UTC (item 18 and 19 control: the code of the second attempt, started at 00:20:00 UTC, and its summary script, before any result)
+explore/rbfine_report.py 746f4eea8a82e3b6e70dc6f832a5f6f447c727bbe64e910e047abe4320989d9a 2026-11-08 00:20:07 UTC (item 18 and 19 control: the code of the second attempt, started at 00:20:00 UTC, and its summary script, before any result)
+explore/DEVIATIONS_EXPLORE.md 1793b404d5ecc9ebcc0c571e9ea05762be000b8fdb57d96e34e08527c78beb08 2026-11-08 00:46:37 UTC (item 20 added after part 1 of the second attempt failed, before rerunning it; items 1 to 19 unchanged)
+explore/rbfine.py 7fdf23c4c43a9c98f75d5a90ee8c9dd837fac7361d416945c4cc4f55f029d4aa 2026-11-08 00:46:47 UTC (item 20: code of the rerun of part 1, both mesh sizes, before it starts)
+explore/DEVIATIONS_EXPLORE.md f9d0c9f8c4f253574254e4955e8cc959668847d66f37f64079cd4a6ee1350765 2026-11-08 00:57:26 UTC (item 21 added after reading the h_max 0.1 results of the second attempt, before the third; items 1 to 20 unchanged)
+explore/DEVIATIONS_EXPLORE.md 3f3f8a5ad27990572cff24b9619d3fd7ee33a8bb10eafdd47643e1543cfccb9b 2026-11-08 00:57:37 UTC (replaces the previous line: item 21 said 4 geometries, checked against the log it was 6 of 8; no other change)
+explore/rbfine.py fcdb09c82a4ea14db2e52da5b41e7810f700bb76d4c57b12462f1ff424099bc9 2026-11-08 00:58:48 UTC (item 21: code of the third attempt, all parts, before it starts)
+explore/rbfine_report.py 386073d41b7e6c22a252f59bb00c3c99a6ab451654ba7c284c7316cf5adf7921 2026-11-08 00:59:00 UTC (summary script updated for the counters of item 21, before any third-attempt result)
+explore/DEVIATIONS_EXPLORE.md 4ce56bdd39098d9af67fcd42b766c12e914d460c5719a33d0bfb00506b7e0cd5 2026-11-08 01:50:14 UTC (item 22 added before changing figure 7; items 1 to 21 unchanged)
+explore/rbfine/rbfine_h0.1_part0.json e4659d180e5caa7eb8e78e69f0255c4795137fbdc736b0e300abe18b1186ed35 2026-11-08 01:50:14 UTC (control of items 18 to 21, third attempt, outputs and summary)
+explore/rbfine/rbfine_h0.1_part1.json b8d17e2ceb6be2bb9b16e2d05bc7e268ca60841d5155abfba8a7fdb2e6cd18ec 2026-11-08 01:50:14 UTC (control of items 18 to 21, third attempt, outputs and summary)
+explore/rbfine/rbfine_h0.05_part0.json 9fdcb1732ab3db62d63a7b189c680dde6040856e056a1dd381fa7b2adfbbfbc1 2026-11-08 01:50:14 UTC (control of items 18 to 21, third attempt, outputs and summary)
+explore/rbfine/rbfine_h0.05_part1.json 02d5661727648e10e31580c9b35a8ddba9346089e578175daf4f4bac5d68745c 2026-11-08 01:50:14 UTC (control of items 18 to 21, third attempt, outputs and summary)
+explore/rbfine/summary.json 799eb27691b814ad49688a7a338ae1c23098c54f59438055dbcc6740343ba859 2026-11-08 01:50:14 UTC (control of items 18 to 21, third attempt, outputs and summary)
+explore/rbfine/log_h0.1_p0.txt d4d53a03ce25786c0411293dcfde105d7becbc7c040afe99daf98b8afe88fb8e 2026-11-08 01:58:15 UTC (logs of the third attempt of the control, items 18 to 21; not hashed at 01:50:14, unchanged since 01:45:14)
+explore/rbfine/log_h0.1_p1.txt 519cfe19b79c7480853d4488aaf7f7a99635a1e6fba48d857ba9bc307d707cdf 2026-11-08 01:58:15 UTC (logs of the third attempt of the control, items 18 to 21; not hashed at 01:50:14, unchanged since 01:45:14)
+explore/rbfine/log_h0.05_p0.txt 53053c4bce3e82d541f7143e78e4f9c136e4354d42ee5cb0cbee6e283c7ff2b2 2026-11-08 01:58:15 UTC (logs of the third attempt of the control, items 18 to 21; not hashed at 01:50:14, unchanged since 01:45:14)
+explore/rbfine/log_h0.05_p1.txt a2fe9ca0f7a4832c8251096c830389548703fc924ddaa7bb54d2f60222219ce7 2026-11-08 01:58:15 UTC (logs of the third attempt of the control, items 18 to 21; not hashed at 01:50:14, unchanged since 01:45:14)
+explore/x12_report.py 43842bc9c17f5a2f82daa1f1fce355ba3e5dad47fa2076528177a2583329ce86 2026-11-08 01:58:15 UTC (item 22: dashed green line in figure 7 from explore/rbfine; caption rewritten to say which green line is which; nothing else changed)
+explore/figs/fig7_accuracy_mesh_refinement.pdf 34280b1b82d3014cb5edb466c54cd4e8b5db8e5de8dab454fed224224987f854 2026-11-08 01:58:15 UTC (item 22)
+explore/figs/figure_data_x12.json 886bc25407ff9771139be716462dfcf745bd9209894d750208a879b21e83536e 2026-11-08 01:58:15 UTC (item 22: one entry added under fig7, every other value unchanged, checked against the 00:02:21 file)
+explore/TABLES_EXPLORE.md 45cc5c637249be8523724355aba0f8f9f61a4209cb3ade5127fa4e7386007d66 2026-11-08 01:58:15 UTC (rewritten by x12_report.py with identical content; same hash as at 00:02:21)
+explore/figs/fig6_online_cost.pdf 215d2e4ec138d6a65595d56ff42a0855e1e31c908110f58897753aa7c67cb952 2026-11-08 01:58:15 UTC (redrawn by x12_report.py: identical except the PDF creation date, pixels of the PNG identical; the 00:02:21 file was put back, same hash)
+explore/figs/fig8_longer_training_O2_O3.pdf 9c8663d54280821fe310a6a9fa464c6a454bc8503c37729afd593195aa220139 2026-11-08 01:58:15 UTC (as figure 6)
+explore/rbfine_table.py 91d2c81c45789abdbfdc712252f3b0bc8d9793e1bc7333dd6002bb2003b6bde9 2026-11-08 01:58:15 UTC (table of RESULTS_EXPLORE.md section 1.3 from the control outputs and the laptop X1a outputs)
+explore/rbfine/table.md 89e2a7b2d2135c9075d8c5f9b307cb5e3838f30ca636cc953ab59b2ce1749a60 2026-11-08 01:58:15 UTC (written by rbfine_table.py)
+explore/rbfine/table.json 89f72d99193e921bfe0525fd3ba0d45162324179ae38c40c320bb5d5a41bc33e 2026-11-08 01:58:15 UTC (written by rbfine_table.py)
+explore/RESULTS_EXPLORE.md ad5245d442d95f2e69eec4d998892f51a4ca00d67e7ffcf7f55ee36ff18f97a6 2026-11-08 01:58:15 UTC (section 1.3 added, the control of items 18 to 22; dated pointer at the end of the third point of section 1.1; dated note in the status; nothing else changed)

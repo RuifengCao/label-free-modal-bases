@@ -1,0 +1,143 @@
+{
+ "part1": {
+  "H1": {
+   "objective": "o4",
+   "architecture": "shared",
+   "per_run": {
+    "p1_G1_o4_s11": false
+   },
+   "n_pass": 0,
+   "n": 1,
+   "verdict": "not supported"
+  },
+  "H2": {
+   "objective": "o1",
+   "architecture": "shared",
+   "per_run": {
+    "p1_G1_o1_s10": true
+   },
+   "n_pass": 1,
+   "n": 1,
+   "verdict": "supported"
+  },
+  "H3": {
+   "objective": "o2",
+   "architecture": "shared",
+   "per_run": {
+    "p1_G2_o2_s11": true
+   },
+   "n_pass": 1,
+   "n": 1,
+   "verdict": "supported"
+  },
+  "H3b": {
+   "objective": "o3",
+   "architecture": "shared",
+   "per_run": {
+    "p1_G3_o3_s10": true
+   },
+   "n_pass": 1,
+   "n": 1,
+   "verdict": "supported"
+  },
+  "H8": {
+   "objective": "o3",
+   "architecture": "sep against shared",
+   "per_run": {
+    "p1sep_G3_o3_s10": {
+     "e1_sep": 17.4220298320052,
+     "e1_shared": 16.57347199536318,
+     "pass_": false
+    }
+   },
+   "n_pass": 0,
+   "n": 1,
+   "verdict": "not supported"
+  },
+  "H9": {
+   "objective": "o2",
+   "architecture": "sep",
+   "per_run": {
+    "p1sep_G2_o2_s11": true
+   },
+   "n_pass": 1,
+   "n": 1,
+   "verdict": "supported"
+  },
+  "H10": {
+   "objective": "o4",
+   "architecture": "sep",
+   "per_run": {
+    "p1sep_G1_o4_s11": false
+   },
+   "n_pass": 0,
+   "n": 1,
+   "verdict": "not supported"
+  }
+ },
+ "part2": {
+  "H4": {
+   "threshold": 0.01,
+   "per_seed": {
+    "o4_s0": {
+     "value": 2.266863992918225,
+     "pass_": false
+    }
+   },
+   "n_pass": 0,
+   "n": 1,
+   "verdict": "not supported"
+  },
+  "H5": {
+   "threshold": 0.9,
+   "per_seed": {
+    "o4_s0": {
+     "value": -187.3784530429568,
+     "pass_": false
+    }
+   },
+   "n_pass": 0,
+   "n": 1,
+   "verdict": "not supported"
+  },
+  "H6": {
+   "threshold": 0.1,
+   "per_seed": {
+    "o4_s0": {
+     "value": 1.012436007109101,
+     "pass_": false
+    }
+   },
+   "n_pass": 0,
+   "n": 1,
+   "verdict": "not supported"
+  },
+  "H7": {
+   "per_seed": {
+    "0": {
+     "o3s_median_e1": 19.723130464451913,
+     "o4_median_e1": 7.786034791008833,
+     "pass_": true
+    }
+   },
+   "n_pass": 1,
+   "n": 1,
+   "verdict": "supported"
+  },
+  "H7sep": {
+   "per_seed": {
+    "2": {
+     "o3s_median_e1": 15.872314526931282,
+     "o4_median_e1": 9.704867074714983,
+     "pass_": true
+    }
+   },
+   "n_pass": 1,
+   "n": 1,
+   "verdict": "supported"
+  }
+ },
+ "smoke": true,
+ "n_p1_runs": 7,
+ "n_held": 2
+}

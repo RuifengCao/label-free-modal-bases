@@ -1,0 +1,21 @@
+{
+ "geometry": [
+  1.1815,
+  0.3856
+ ],
+ "raw_rel": 0.0,
+ "o4": {
+  "value_rel": 0.0,
+  "grad_rel": 6.984937303030846e-16,
+  "ms_loop": 35.70941073333719,
+  "ms_batched": 36.415794966645386
+ },
+ "o3s": {
+  "value_rel": 0.0,
+  "grad_rel": 6.90776957792718e-16,
+  "ms_loop": 40.95215713332436,
+  "ms_batched": 41.96556133335131
+ },
+ "unstack_roundtrip_max": 0.0,
+ "pass": true
+}

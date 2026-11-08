@@ -1,0 +1,2 @@
+all verdict tests passed
+stamp check tests passed (18 files)

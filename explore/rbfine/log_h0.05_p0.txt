@@ -1,0 +1,9 @@
+3.3505_0.1723 h=0.05 n=75770: 293 s (maps 3.8, 1.2, metrics 282); max e: rbm_fine 2.13e-03, rbm_all 5.73e-03
+1.5060_0.2220 h=0.05 n=76694: 270 s (maps 1.8, metrics 263); max e: rbm_fine 1.65e-04
+4.8227_0.1775 h=0.05 n=75782: 265 s (maps 1.6, metrics 258); max e: rbm_fine 5.22e-04
+2.0416_0.1276 h=0.05 n=74984: 265 s (maps 1.7, metrics 258); max e: rbm_fine 1.54e-03
+3.5026_0.2488 h=0.05 n=77296: 272 s (maps 2.0, metrics 264); max e: rbm_fine 4.40e-05
+1.3461_0.1508 h=0.05 n=75856: 257 s (maps 1.7, metrics 250); max e: rbm_fine 1.26e-03
+4.0451_0.1017 h=0.05 n=74474: 265 s (maps 1.9, metrics 258); max e: rbm_fine 1.67e-02
+2.8270_0.1994 h=0.05 n=76410: 264 s (maps 1.8, metrics 257); max e: rbm_fine 6.05e-04
+sources: 0.2 3.7 s, 0.05 75.2 s

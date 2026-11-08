@@ -1,0 +1,14 @@
+
+=== attempt 1, 2026-11-07 20:07:02 ===
+4.4704_0.2994 h=0.2 n=7464: 88 s (set-up 0, nets 1, rbm 0, metrics 19)
+4.4704_0.2994 h=0.1 n=23510: 75 s (set-up 1, nets 2, rbm 0, metrics 72)
+4.4704_0.2994 h=0.05 n=77668: 274 s (set-up 4, nets 4, rbm 1, metrics 265)
+3.9503_0.3504 h=0.2 n=7418: 92 s (set-up 0, nets 1, rbm 0, metrics 21)
+3.9503_0.3504 h=0.1 n=23860: 77 s (set-up 1, nets 2, rbm 0, metrics 74)
+3.9503_0.3504 h=0.05 n=78186: 280 s (set-up 4, nets 4, rbm 1, metrics 271)
+4.6308_0.3736 h=0.2 n=7406: 92 s (set-up 0, nets 1, rbm 0, metrics 21)
+4.6308_0.3736 h=0.1 n=23900: 77 s (set-up 1, nets 2, rbm 0, metrics 74)
+4.6308_0.3736 h=0.05 n=77942: 278 s (set-up 4, nets 4, rbm 1, metrics 269)
+3.1654_0.2769 h=0.2 n=7408: 95 s (set-up 0, nets 1, rbm 0, metrics 20)
+3.1654_0.2769 h=0.1 n=23568: 77 s (set-up 1, nets 2, rbm 0, metrics 74)
+3.1654_0.2769 h=0.05 n=77092: 273 s (set-up 4, nets 4, rbm 1, metrics 264)

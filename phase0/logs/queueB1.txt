@@ -1,0 +1,10 @@
+03:10:54 train_o4_s0 exit 0 289 s
+03:15:42 train_o4_s1 exit 0 288 s
+03:20:32 train_o4_s2 exit 0 290 s
+03:25:19 train_o2_s0 exit 0 287 s
+03:30:09 train_o2_s1 exit 0 290 s
+03:35:00 train_o2_s2 exit 0 291 s
+03:40:12 train_o3_s0 exit 0 312 s
+03:45:27 train_o3_s1 exit 0 315 s
+03:50:37 train_o3_s2 exit 0 310 s
+03:50:37 QUEUE B1 DONE

@@ -1,0 +1,8 @@
+03:59:43 train_o1_s0 exit 0 533 s
+04:08:28 train_o1_s1 exit 0 525 s
+04:17:12 train_o1_s2 exit 0 524 s
+04:21:55 train_o4_s0_hard exit 0 283 s
+04:22:07 gap exit 0 12 s
+04:26:52 sens exit 0 285 s
+04:27:06 cost exit 0 14 s
+04:27:06 QUEUE B2 DONE

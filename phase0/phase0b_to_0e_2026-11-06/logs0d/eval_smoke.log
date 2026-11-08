@@ -1,0 +1,230 @@
+{"xc": 1.7402, "d": 0.1011, "rbm_k4": {"max": 0.009593370563356851, "e1": 0.009593370563356851, "drop": 0.32991624070124176, "e2": 0.15286065600425464}, "rbm_all": {"max": 0.006105253666493393, "e1": 0.006105253666493393, "drop": 0.5735564157249805, "e2": 0.11669390713056435}, "rbm_k4_t13": {"max": 0.009593370563356851, "e1": 0.009593370563356851, "drop": 0.32991624070124176, "e2": 0.15286065600425464}, "rbm_all_t13": {"max": 0.0034756940991140794, "e1": 0.0034756940991140794, "drop": 0.7572275403388599, "e2": 0.08647110964718549}, "freq_rbf": {"max": 0.0052967002944479535, "e1": -0.0030272849191926854, "drop": 1.2114516942428306, "e2": null}, "freq_nearest": {"max": 0.003045060633777519, "e1": 0.0002454629504051731, "drop": 0.9828547500078573, "e2": null}}
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:169: RuntimeWarning: divide by zero encountered in scalar divide
+  r2 = 1 - np.sum((w1n - (slope * w1f + icpt)) ** 2) / np.sum((w1n - w1n.mean()) ** 2)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+{"xc": 1.2756, "d": 0.3196, "rbm_k4": {"max": 0.003250011739003744, "e1": 0.003250011739003744, "drop": 0.9786143138152601, "e2": 0.08310467444148739}, "rbm_all": {"max": 0.0024213045790291154, "e1": 0.0024213045790291154, "drop": 0.9840673621995402, "e2": 0.0713714011159153}, "rbm_k4_t13": {"max": 0.003250011739003744, "e1": 0.003250011739003744, "drop": 0.9786143138152601, "e2": 0.08310467444148739}, "rbm_all_t13": {"max": 0.002093552886631933, "e1": 0.002093552886631933, "drop": 0.9862240297450762, "e2": 0.06631883283020615}, "freq_rbf": {"max": 0.014518570282993304, "e1": -0.008418777183036075, "drop": 1.0553971312580088, "e2": null}, "freq_nearest": {"max": 0.054660177533634946, "e1": -0.054660177533634946, "drop": 1.3596742096368017, "e2": null}}
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+/home/claude/udc/phase0/phase0d.py:168: RankWarning: Polyfit may be poorly conditioned
+  slope, icpt = np.polyfit(w1f, w1n, 1)
+{
+ "summary_pilot2": {
+  "rbm_k4": {
+   "H4": 0.0030728949359966062,
+   "H5": 0.32991624070124176,
+   "median_e1": 0.009593370563356851,
+   "median_max_ritz": 0.009593370563356851,
+   "max_max_ritz": 0.009593370563356851,
+   "slope": 0.5047966852816782,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.32991624070124176,
+   "n_big": 1,
+   "H6": 0.15286065600425464,
+   "median_e1_tip_acc": 0.10307452725850064,
+   "median_t": 0.05389958100022341,
+   "median_rank": 32.0,
+   "median_void_mean": 0.016460326392796848,
+   "median_void_max": 0.020540236353404615,
+   "max_void_max": 0.020540236353404615
+  },
+  "rbm_all": {
+   "H4": 0.0010289923493382869,
+   "H5": 0.5735564157249805,
+   "median_e1": 0.006105253666493393,
+   "median_max_ritz": 0.006105253666493393,
+   "max_max_ritz": 0.006105253666493393,
+   "slope": 0.5030526268332464,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.5735564157249805,
+   "n_big": 1,
+   "H6": 0.11669390713056435,
+   "median_e1_tip_acc": 0.05218810288136122,
+   "median_t": 0.3035389500000747,
+   "median_rank": 153.0,
+   "median_void_mean": 0.020716094541361845,
+   "median_void_max": 0.024760832864378166,
+   "max_void_max": 0.024760832864378166
+  },
+  "rbm_k4_t13": {
+   "H4": 0.0030728949359966062,
+   "H5": 0.32991624070124176,
+   "median_e1": 0.009593370563356851,
+   "median_max_ritz": 0.009593370563356851,
+   "max_max_ritz": 0.009593370563356851,
+   "slope": 0.5047966852816782,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.32991624070124176,
+   "n_big": 1,
+   "H6": 0.15286065600425464,
+   "median_e1_tip_acc": 0.10307452725850064,
+   "median_t": 0.01914212400060933,
+   "median_rank": 32.0,
+   "median_void_mean": 0.016460326392796848,
+   "median_void_max": 0.020540236353404615,
+   "max_void_max": 0.020540236353404615
+  },
+  "rbm_all_t13": {
+   "H4": 0.0009390046211228409,
+   "H5": 0.7572275403388599,
+   "median_e1": 0.0034756940991140794,
+   "median_max_ritz": 0.0034756940991140794,
+   "max_max_ritz": 0.0034756940991140794,
+   "slope": 0.5017378470495568,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.7572275403388599,
+   "n_big": 1,
+   "H6": 0.08647110964718549,
+   "median_e1_tip_acc": 0.03584017993270824,
+   "median_t": 0.14690066599996499,
+   "median_rank": 192.0,
+   "median_void_mean": 0.020716094541361845,
+   "median_void_max": 0.024760832864378166,
+   "max_void_max": 0.024760832864378166
+  },
+  "freq_rbf": {
+   "H4": 0.0012456234459814475,
+   "H5": 1.2114516942428306,
+   "median_e1": -0.0030272849191926854,
+   "median_max_ritz": 0.0052967002944479535,
+   "max_max_ritz": 0.0052967002944479535,
+   "slope": 0.4984863575404034,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 1.2114516942428306,
+   "n_big": 1,
+   "H4_abs": 0.0016317750991519109,
+   "median_abs_e1": 0.0030272849191926854
+  },
+  "freq_nearest": {
+   "H4": -0.0019288679511779705,
+   "H5": 0.9828547500078573,
+   "median_e1": 0.0002454629504051731,
+   "median_max_ritz": 0.003045060633777519,
+   "max_max_ritz": 0.003045060633777519,
+   "slope": 0.5001227314752023,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.9828547500078573,
+   "n_big": 1,
+   "H4_abs": 0.0019288679511779705,
+   "median_abs_e1": 0.0002454629504051731
+  }
+ },
+ "summary_pilot1": {
+  "rbm_k4": {
+   "H4": 0.0012110979839674574,
+   "H5": 0.9786143138152601,
+   "median_e1": 0.003250011739003744,
+   "median_max_ritz": 0.003250011739003744,
+   "max_max_ritz": 0.003250011739003744,
+   "slope": 0.5016250058695015,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.9786143138152601,
+   "n_big": 1,
+   "H6": 0.08310467444148739,
+   "median_e1_tip_acc": 0.03469164066088819,
+   "median_t": 0.05916236899975047,
+   "median_rank": 32.0,
+   "median_void_mean": 0.0036241610738255033,
+   "median_void_max": 0.012348993288590604,
+   "max_void_max": 0.012348993288590604
+  },
+  "rbm_all": {
+   "H4": 0.0008828465461347967,
+   "H5": 0.9840673621995402,
+   "median_e1": 0.0024213045790291154,
+   "median_max_ritz": 0.0024213045790291154,
+   "max_max_ritz": 0.0024213045790291154,
+   "slope": 0.5012106522895142,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.9840673621995402,
+   "n_big": 1,
+   "H6": 0.0713714011159153,
+   "median_e1_tip_acc": 0.027102235025636412,
+   "median_t": 0.06445943499966234,
+   "median_rank": 61.0,
+   "median_void_mean": 0.00348993288590604,
+   "median_void_max": 0.012348993288590604,
+   "max_void_max": 0.012348993288590604
+  },
+  "rbm_k4_t13": {
+   "H4": 0.0012110979839674574,
+   "H5": 0.9786143138152601,
+   "median_e1": 0.003250011739003744,
+   "median_max_ritz": 0.003250011739003744,
+   "max_max_ritz": 0.003250011739003744,
+   "slope": 0.5016250058695015,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.9786143138152601,
+   "n_big": 1,
+   "H6": 0.08310467444148739,
+   "median_e1_tip_acc": 0.03469164066088819,
+   "median_t": 0.019359560999873793,
+   "median_rank": 32.0,
+   "median_void_mean": 0.0036241610738255033,
+   "median_void_max": 0.012348993288590604,
+   "max_void_max": 0.012348993288590604
+  },
+  "rbm_all_t13": {
+   "H4": 0.000876299887526466,
+   "H5": 0.9862240297450762,
+   "median_e1": 0.002093552886631933,
+   "median_max_ritz": 0.002093552886631933,
+   "max_max_ritz": 0.002093552886631933,
+   "slope": 0.5010467764433159,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 0.9862240297450762,
+   "n_big": 1,
+   "H6": 0.06631883283020615,
+   "median_e1_tip_acc": 0.02483532880352021,
+   "median_t": 0.04129094700056157,
+   "median_rank": 64.0,
+   "median_void_mean": 0.00348993288590604,
+   "median_void_max": 0.012348993288590604,
+   "max_void_max": 0.012348993288590604
+  },
+  "freq_rbf": {
+   "H4": -0.008418777183036075,
+   "H5": 1.0553971312580088,
+   "median_e1": -0.008418777183036075,
+   "median_max_ritz": 0.014518570282993304,
+   "max_max_ritz": 0.014518570282993304,
+   "slope": 0.49579061140848174,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 1.0553971312580088,
+   "n_big": 1,
+   "H4_abs": 0.011237321602016848,
+   "median_abs_e1": 0.008418777183036075
+  },
+  "freq_nearest": {
+   "H4": -0.00878960370803139,
+   "H5": 1.3596742096368017,
+   "median_e1": -0.054660177533634946,
+   "median_max_ritz": 0.054660177533634946,
+   "max_max_ritz": 0.054660177533634946,
+   "slope": 0.4726699112331823,
+   "r2": -Infinity,
+   "H5_drop_ge_1pct": 1.3596742096368017,
+   "n_big": 1,
+   "H4_abs": 0.00878960370803139,
+   "median_abs_e1": 0.054660177533634946
+  }
+ }
+}

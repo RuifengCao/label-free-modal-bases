@@ -1,0 +1,14 @@
+2026-11-07 19:31:45  START smoke test: 6 jobs, 0 already done; CPUs [2, 4, 6, 8]
+2026-11-07 19:31:45  fine_0: started on CPU 2 (attempt 1)
+2026-11-07 19:31:45  acc_0: started on CPU 4 (attempt 1)
+2026-11-07 19:31:45  acc_1: started on CPU 6 (attempt 1)
+2026-11-07 19:31:45  x2_G1_o2_s10: started on CPU 8 (attempt 1)
+2026-11-07 19:32:07  x2_G1_o2_s10: done in 22 s (CPU 8)
+2026-11-07 19:32:07  x2_G2_o3_s11: started on CPU 8 (attempt 1)
+2026-11-07 19:32:19  fine_0: done in 34 s (CPU 2)
+2026-11-07 19:32:21  x2_G2_o3_s11: done in 14 s (CPU 8)
+2026-11-07 19:32:29  acc_1: done in 44 s (CPU 6)
+2026-11-07 19:32:31  acc_0: done in 46 s (CPU 4)
+2026-11-07 19:32:31  timing: started on CPU 2 (attempt 1)
+2026-11-07 19:32:41  timing: done in 10 s (CPU 2)
+2026-11-07 19:32:41  END: 6 of 6 jobs done

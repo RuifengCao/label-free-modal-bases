@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/home/claude/udc/explore/rbfine.py", line 100, in <module>
+    main(float(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]) if len(sys.argv) > 4 else 0)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/udc/explore/rbfine.py", line 90, in main
+    res["%s_h%g" % (X.key(g), h)] = evaluate(g, h, fns, w_plain)
+                                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/udc/explore/rbfine.py", line 46, in evaluate
+    B, info = fn(inst, g)
+              ~~^^^^^^^^^
+  File "/home/claude/udc/explore/rbfine.py", line 87, in <lambda>
+    fns = dict(rbm_fine=lambda inst, gg: PD.rbm_basis(fine, inst, gg, m=X.M_MODES, tol=F.RBM_TOL))
+                                         ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/claude/udc/formal/phase0d.py", line 90, in rbm_basis
+    blocks, voids = zip(*[interp_mapped(s, g, dst, dst_g) for g, s in srcs])
+                          ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/home/claude/udc/formal/phase0d.py", line 81, in interp_mapped
+    assert np.all(np.isfinite(Phi))
+           ~~~~~~^^^^^^^^^^^^^^^^^^
+AssertionError

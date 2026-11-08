@@ -1,0 +1,31 @@
+{
+ "python": "3.13.18 (main, Oct 26 2026, 14:10:48) [MSC v.1944 64 bit (AMD64)]",
+ "platform": "Windows-11-10.0.26200-SP0",
+ "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+ "numpy": "2.5.4",
+ "scipy": "1.18.1",
+ "jax": "0.12.0.1",
+ "logical_cpus": 32,
+ "physical_cpus": 24,
+ "file_hashes": {
+  "PREREG.md": "ddf7c8148905e99f544478e94082ec92ac72e51bed3950186fe7a9947213fa78",
+  "phase1.py": "26e5226c2adc680ec9c6dde5978bfbe5757d13388f6f52191759ed8c60c3b532",
+  "phase0.py": "7e40974fdb55a22e7b61e2ce8e0cb5cf72d1979ce388a6f542050ba3f142fdaa",
+  "phase0b.py": "4deb2800b65ede317357ec7c2b652c75d2c11a9c35afc18a44c0e3608ed7d4a6",
+  "phase0c.py": "82752aa0acb5cf98527904acad236383518a79e512168c56f72d5bd250b2b499",
+  "phase0d.py": "ee991783ff29d05d429c3e688a00c6ca69a1f483f4840b2eb1cd0e3e9e19ea81",
+  "phase0e.py": "c3e4383cd47950453bcd5dee3b0f7d3d5a9a479a6c7d536d288da0d53a19232e",
+  "geometries.json": "21f351a334db8a847ced0dfc90c3454de54079718f4a44f0fcfbed7fc20ac08c",
+  "run_formal.py": "d4d946716af4e3c55d789c45326681308f01560ac6f637487167af5e0e2a59fe",
+  "../fem_cantilever.py": "310f42ebe4bceff6bcaca10cea709c3b0f8b5691e84684b1d66f13d53ec16ec4",
+  "../lb_model.py": "fe0a3aabefd2145c72b0e50683261df2adfdedacf1adc6f12905312c10711820",
+  "../run_check.py": "c34096fc2bee404cf7123d1d6858a269c1a8b3354be7908b63bc1fae42267c7a",
+  "../posthoc.py": "714baf275120f296c81e28ce24edba279b9d9fb50807dbf7e3a9fe83f6c85eaa",
+  "../posthoc2.py": "2320e6ed9f31f13d7077dcfe0f5dc11f390880f6ef995436df35fd5eaf464f35",
+  "../posthoc3.py": "b2a73f7fd39cf13a5390bcf114640daad46d331688f8bbede3dde1aab5f4807e",
+  "../posthoc4.py": "3dfe18d1960998dd1ffc274cb95718c2d332c4c7b0162bf97ae2012bb1806b2a",
+  "../posthoc6.py": "109654208238f3dd65b721adee7e62062e0f13e9bf5409f95836a11683223aeb",
+  "../posthoc7.py": "7688346076a3830c53dd8005297766fbf99d1315ed4169c72fe0c64331a01169"
+ },
+ "smoke": true
+}

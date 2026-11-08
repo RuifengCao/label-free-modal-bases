@@ -1,0 +1,28 @@
+Downloading cpython-3.13.18-windows-x86_64-none (download) (21.0MiB)
+ Downloaded cpython-3.13.18-windows-x86_64-none (download)
+Using CPython 3.13.18
+Creating virtual environment at: .venv
+Activate with: .venv\Scripts\activate
+Resolved 9 packages in 12.61s
+Downloading jax (3.3MiB)
+Downloading jaxlib (68.1MiB)
+Downloading triangle (1.4MiB)
+Downloading numpy (12.0MiB)
+Downloading scipy (34.9MiB)
+ Downloaded triangle
+ Downloaded jax
+ Downloaded numpy
+ Downloaded scipy
+ Downloaded jaxlib
+Prepared 9 packages in 13.88s
+Installed 9 packages in 671ms
+ + jax==0.12.0.1
+ + jaxlib==0.12.0.1
+ + ml-dtypes==0.6.0
+ + numpy==2.5.4
+ + opt-einsum==3.4.0
+ + psutil==7.2.2
+ + scikit-fem==12.0.2
+ + scipy==1.18.1
+ + triangle==20250106
+jax 0.12.0.1 [CpuDevice(id=0)]

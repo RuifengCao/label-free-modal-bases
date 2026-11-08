@@ -1,0 +1,32 @@
+{
+ "fine_0": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ },
+ "acc_0": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 4
+ },
+ "acc_1": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 6
+ },
+ "x2_G1_o2_s10": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 8
+ },
+ "x2_G2_o3_s11": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 8
+ },
+ "timing": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ }
+}

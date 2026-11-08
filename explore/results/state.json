@@ -1,0 +1,107 @@
+{
+ "fine_0": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ },
+ "fine_1": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ },
+ "fine_2": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ },
+ "fine_3": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ },
+ "acc_0": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 4
+ },
+ "acc_1": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 6
+ },
+ "acc_2": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 8
+ },
+ "acc_3": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 8
+ },
+ "x2_G1_o3_s10": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 6
+ },
+ "x2_G1_o3_s11": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 4
+ },
+ "x2_G2_o3_s10": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 8
+ },
+ "x2_G2_o3_s11": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 6
+ },
+ "x2_G3_o3_s10": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 4
+ },
+ "x2_G3_o3_s11": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ },
+ "x2_G1_o2_s10": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 8
+ },
+ "x2_G1_o2_s11": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 4
+ },
+ "x2_G2_o2_s10": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 6
+ },
+ "x2_G2_o2_s11": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ },
+ "x2_G3_o2_s10": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 8
+ },
+ "x2_G3_o2_s11": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 4
+ },
+ "timing": {
+  "status": "done",
+  "attempts": 1,
+  "cpu": 2
+ }
+}
